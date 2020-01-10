@@ -4,7 +4,9 @@
 
 
 
-npm install express serve-index
+npm install express@4.17.1
+
+npm install serve-index@1.9.1
 
 node server.js
 或者
