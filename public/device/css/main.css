@@ -1,0 +1,11 @@
+div.output {
+    background-color: #eee;
+    display: inline-block;
+    font-family: 'Inconsolata', 'Courier New', monospace;
+    font-size: 0.9em;
+    padding: 10px 10px 10px 25px;
+    position: relative;
+    top: 10px;
+    white-space: pre;
+    width: 270px;
+}
